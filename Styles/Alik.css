@@ -1,0 +1,36 @@
+
+.one {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+.two {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.three {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.four {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.five {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
